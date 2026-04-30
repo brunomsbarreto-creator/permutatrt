@@ -1,0 +1,31 @@
+{
+  "short_name": "PermutaFácil",
+  "name": "Permuta Fácil - Você, de volta para casa",
+  "description": "Plataforma de Permuta de Lotação para Servidores da Justiça do Trabalho",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1E3A8A",
+  "background_color": "#1E3A8A",
+  "lang": "pt-BR",
+  "categories": ["productivity", "utilities"]
+}
